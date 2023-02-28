@@ -1,6 +1,8 @@
 body {
     font-family: 'Montserrat', sans-serif;
     width: 100%;
+    margin: 0;
+    padding: 05px;
 }
 
 
@@ -68,7 +70,7 @@ nav a:hover {
 }
 
 .video {
-    width: 100%;
+    width: 99%;
     margin: 1em auto 0;
 }
 
